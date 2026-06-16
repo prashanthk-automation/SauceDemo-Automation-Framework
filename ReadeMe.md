@@ -52,7 +52,7 @@ Implemented Scenarios
 
 Concepts Implemented
 --------------------
-POM
+POM (Page Object Model)
 Assertions
 Collections
 Sorting Validation
